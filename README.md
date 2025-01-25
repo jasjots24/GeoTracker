@@ -30,7 +30,7 @@ Ensure you have **Node.js** installed on your system. You can download it from [
 
 ### 1. Clone the repository.
 
-\*\*git clone \*\***[https://github.com/yourusername/GeoTracker.git](https://github.com/yourusername/GeoTracker.git)**
+\*\*git clone \*\***[https://github.com/yourusername/GeoTracker.git](https://github.com/jasjots24/GeoTracker.git)**
 
 **cd GeoTracke.**
 
